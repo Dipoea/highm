@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to Highm 👋</h1>
 <p>
-  ![![](](https://img.shields.io/badge/Python-3.x/higher-yellowgreen.svg)
+  <img alt="Version" src="https://img.shields.io/badge/python-3.7.0-green.svg?cacheSeconds=2592000" />
+</p>
+<p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
